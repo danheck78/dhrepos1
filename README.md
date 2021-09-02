@@ -1,8 +1,6 @@
-Hello.  If you're reading this, you have already received my resume and may be considering me for employment.  Thank you in advance for your time.
-
 This repository contains three demonstrations of my understanding and skill regarding Python and SQL.
 
-Once you download and extract ninecardpoker.zip, you can run the application therein named "ninecardpoker".
+Once you download and extract ninecardpoker.zip, you can run the self-standing application therein named "ninecardpoker".
 
 This game uses pygame to take user clicks as input, place cards within the game window and refresh the game window after each click while also notifying the player of what was scored.  Instructions are provided at the beginning of the game, and error-handling functionality is built-in so that the player cannot place cards where a card already exists.
 
